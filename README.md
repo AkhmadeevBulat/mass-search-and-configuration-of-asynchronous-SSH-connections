@@ -1,1 +1,3 @@
-# mass-search-and-configuration-of-asynchronous-SSH-connections
+# Массовый поиск и настройка асинхронных SSH подключений
+
+---
